@@ -3338,4 +3338,4 @@ message.react("??")
 
 });
 
-client.login("NDU4MzQzMjU5NjU2MTU5MjU2.DgmQ8Q.L_AZ4gh2HQLZeZaUFOBCWlalKLA");
+client.login(process.env.BOT_TOKEN);
