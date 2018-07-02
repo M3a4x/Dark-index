@@ -10,7 +10,6 @@
     "discord.js": "11.1.0",
     "request": "2.81.0",
     "quick.db": "2.81.0",
-    "fs canvas jimp": "2.81.0",
     "moment": "^2.22.2"
   }
 }
